@@ -16,3 +16,11 @@ try kerberos, try client accessing from another VPC.
 3. protect zk server with kerberos.
 4. connecting to zk server from krbtest-clt instance.
 5. connecting to zk from another VPC.
+6. links:
+   1. https://www.cnblogs.com/bainianminguo/p/12548076.html-----------安装kerberos
+   2. https://www.cnblogs.com/bainianminguo/p/12548334.html-----------hadoop的kerberos认证
+   3. https://www.cnblogs.com/bainianminguo/p/12548175.html-----------zookeeper的kerberos认证
+   4. https://www.cnblogs.com/bainianminguo/p/12584732.html-----------hive的kerberos认证
+   5. https://www.cnblogs.com/bainianminguo/p/12584880.html-----------es的search-guard认证
+   6. https://www.cnblogs.com/bainianminguo/p/12639821.html-----------flink的kerberos认证
+   7. https://www.cnblogs.com/bainianminguo/p/12639887.html-----------spark的kerberos认证
